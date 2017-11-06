@@ -20,7 +20,7 @@ In order to work with this repository Python 3 as well as a text editor are both
 
 To install **Python 3**:
 - http://docs.python-guide.org/en/latest/starting/install3/osx/#install3-osx
-For text editors I suggest Atom or Brackets, however any will do just fine.
+- For text editors I suggest Atom or Brackets, however any will do just fine.
 - https://atom.io/
 - http://brackets.io/
 
@@ -32,6 +32,8 @@ To run the game in the terminal and for testing and development:
 2. type the following in to the terminal:
 - `python3 roulette.py`
 3. The program should launch baring any defeciencies
+
+
 
 ## Built With
 
@@ -50,4 +52,4 @@ To run the game in the terminal and for testing and development:
 
 * Mike Kane - Professor
 * Alan Davis
-*
+
