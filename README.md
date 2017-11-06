@@ -30,7 +30,8 @@ For text editors I suggest Atom or Brackets, however any will do just fine.
 To run the game in the terminal and for testing and development:
 1. Ensure that you are in the working directory of the project
 2. type the following in to the terminal:
-..* python3 roulette.py
+- `python3 roulette.py`
+3. The program should launch baring any defeciencies
 
 ## Built With
 
