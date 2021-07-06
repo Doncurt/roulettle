@@ -1,5 +1,5 @@
 import random
-#These three variables denote user input for the gambling game
+#These three variables denote user input for the gambling game, gambling
 bank_account=1000
 bet_amount=0
 bet_color=None
